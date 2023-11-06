@@ -1,0 +1,2 @@
+Voda,Mlijeko,Kava,Šalica,Novac
+4450,1900,72,18,10
